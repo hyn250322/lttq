@@ -47,6 +47,7 @@ namespace CoffeeManagement
             this.btnNextPage = new Guna.UI2.WinForms.Guna2GradientButton();
             this.btnLastPage = new Guna.UI2.WinForms.Guna2GradientButton();
             this.txtCurrentPage = new Guna.UI2.WinForms.Guna2TextBox();
+            this.btnExportStatiscal = new Guna.UI2.WinForms.Guna2GradientButton();
             this.pnlTitle.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)(this.dgvBill)).BeginInit();
             this.SuspendLayout();
@@ -127,7 +128,7 @@ namespace CoffeeManagement
             this.btnStatistical.Font = new System.Drawing.Font("Segoe UI", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.btnStatistical.ForeColor = System.Drawing.Color.Black;
             this.btnStatistical.HoverState.Parent = this.btnStatistical;
-            this.btnStatistical.Location = new System.Drawing.Point(300, 56);
+            this.btnStatistical.Location = new System.Drawing.Point(241, 56);
             this.btnStatistical.Name = "btnStatistical";
             this.btnStatistical.ShadowDecoration.Parent = this.btnStatistical;
             this.btnStatistical.Size = new System.Drawing.Size(100, 25);
@@ -292,10 +293,29 @@ namespace CoffeeManagement
             this.txtCurrentPage.PlaceholderText = "";
             this.txtCurrentPage.ReadOnly = true;
             this.txtCurrentPage.SelectedText = "";
+            this.txtCurrentPage.SelectionStart = 4;
             this.txtCurrentPage.ShadowDecoration.Parent = this.txtCurrentPage;
             this.txtCurrentPage.Size = new System.Drawing.Size(90, 25);
             this.txtCurrentPage.TabIndex = 5;
             this.txtCurrentPage.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
+            // 
+            // btnExportStatiscal
+            // 
+            this.btnExportStatiscal.BorderRadius = 3;
+            this.btnExportStatiscal.CheckedState.Parent = this.btnExportStatiscal;
+            this.btnExportStatiscal.CustomImages.Parent = this.btnExportStatiscal;
+            this.btnExportStatiscal.FillColor = System.Drawing.Color.FromArgb(((int)(((byte)(93)))), ((int)(((byte)(245)))), ((int)(((byte)(255)))));
+            this.btnExportStatiscal.FillColor2 = System.Drawing.Color.FromArgb(((int)(((byte)(78)))), ((int)(((byte)(177)))), ((int)(((byte)(255)))));
+            this.btnExportStatiscal.Font = new System.Drawing.Font("Segoe UI", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.btnExportStatiscal.ForeColor = System.Drawing.Color.Black;
+            this.btnExportStatiscal.HoverState.Parent = this.btnExportStatiscal;
+            this.btnExportStatiscal.Location = new System.Drawing.Point(365, 56);
+            this.btnExportStatiscal.Name = "btnExportStatiscal";
+            this.btnExportStatiscal.ShadowDecoration.Parent = this.btnExportStatiscal;
+            this.btnExportStatiscal.Size = new System.Drawing.Size(100, 25);
+            this.btnExportStatiscal.TabIndex = 6;
+            this.btnExportStatiscal.Text = "Xuất thống kê";
+            this.btnExportStatiscal.Click += new System.EventHandler(this.btnExportStatiscal_Click);
             // 
             // Bill
             // 
@@ -304,6 +324,7 @@ namespace CoffeeManagement
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackColor = System.Drawing.Color.White;
             this.ClientSize = new System.Drawing.Size(700, 500);
+            this.Controls.Add(this.btnExportStatiscal);
             this.Controls.Add(this.txtCurrentPage);
             this.Controls.Add(this.btnLastPage);
             this.Controls.Add(this.btnNextPage);
@@ -344,5 +365,6 @@ namespace CoffeeManagement
         private Guna.UI2.WinForms.Guna2GradientButton btnNextPage;
         private Guna.UI2.WinForms.Guna2GradientButton btnLastPage;
         private Guna.UI2.WinForms.Guna2TextBox txtCurrentPage;
+        private Guna.UI2.WinForms.Guna2GradientButton btnExportStatiscal;
     }
 }

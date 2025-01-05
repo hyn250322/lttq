@@ -68,11 +68,13 @@ namespace CoffeeManagement
             this.txtTotalPrice = new Guna.UI2.WinForms.Guna2TextBox();
             this.grbTableList = new System.Windows.Forms.GroupBox();
             this.grbSelectedTable = new System.Windows.Forms.GroupBox();
+            this.btnDeleteNumDrink = new Guna.UI2.WinForms.Guna2GradientButton();
             this.cboMergeTable = new Guna.UI2.WinForms.Guna2ComboBox();
             this.lblTotalPrice = new System.Windows.Forms.Label();
             this.btnSwitchTable = new Guna.UI2.WinForms.Guna2GradientButton();
             this.btnMergeTable = new Guna.UI2.WinForms.Guna2GradientButton();
             this.btnPayment = new Guna.UI2.WinForms.Guna2GradientButton();
+            this.tbx_Note = new System.Windows.Forms.TextBox();
             this.msMenu.SuspendLayout();
             this.pnlTitle.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)(this.nudNumDrink)).BeginInit();
@@ -113,40 +115,40 @@ namespace CoffeeManagement
             // tsmiBill
             // 
             this.tsmiBill.Name = "tsmiBill";
-            this.tsmiBill.Size = new System.Drawing.Size(180, 22);
+            this.tsmiBill.Size = new System.Drawing.Size(138, 22);
             this.tsmiBill.Text = "Doanh thu";
             this.tsmiBill.Click += new System.EventHandler(this.tsmiBill_Click);
             // 
             // tsmiTableDrink
             // 
             this.tsmiTableDrink.Name = "tsmiTableDrink";
-            this.tsmiTableDrink.Size = new System.Drawing.Size(180, 22);
+            this.tsmiTableDrink.Size = new System.Drawing.Size(138, 22);
             this.tsmiTableDrink.Text = "Bàn";
             this.tsmiTableDrink.Click += new System.EventHandler(this.tsmiTableDrink_Click);
             // 
             // tsmiCategory
             // 
             this.tsmiCategory.Name = "tsmiCategory";
-            this.tsmiCategory.Size = new System.Drawing.Size(180, 22);
+            this.tsmiCategory.Size = new System.Drawing.Size(138, 22);
             this.tsmiCategory.Text = "Danh mục";
             this.tsmiCategory.Click += new System.EventHandler(this.tsmiCategory_Click);
             // 
             // tsmiDrink
             // 
             this.tsmiDrink.Name = "tsmiDrink";
-            this.tsmiDrink.Size = new System.Drawing.Size(180, 22);
+            this.tsmiDrink.Size = new System.Drawing.Size(138, 22);
             this.tsmiDrink.Text = "Thức uống";
             this.tsmiDrink.Click += new System.EventHandler(this.tsmiDrink_Click);
             // 
             // tsmiLine
             // 
             this.tsmiLine.Name = "tsmiLine";
-            this.tsmiLine.Size = new System.Drawing.Size(177, 6);
+            this.tsmiLine.Size = new System.Drawing.Size(135, 6);
             // 
             // tsmiAccount
             // 
             this.tsmiAccount.Name = "tsmiAccount";
-            this.tsmiAccount.Size = new System.Drawing.Size(180, 22);
+            this.tsmiAccount.Size = new System.Drawing.Size(138, 22);
             this.tsmiAccount.Text = "Tài khoản";
             this.tsmiAccount.Click += new System.EventHandler(this.tsmiAccount_Click);
             // 
@@ -349,7 +351,7 @@ namespace CoffeeManagement
             this.nudNumDrink.FocusedState.Parent = this.nudNumDrink;
             this.nudNumDrink.Font = new System.Drawing.Font("Segoe UI", 9F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.nudNumDrink.ForeColor = System.Drawing.Color.Black;
-            this.nudNumDrink.Location = new System.Drawing.Point(309, 55);
+            this.nudNumDrink.Location = new System.Drawing.Point(399, 59);
             this.nudNumDrink.Minimum = new decimal(new int[] {
             100,
             0,
@@ -524,6 +526,8 @@ namespace CoffeeManagement
             // 
             // grbSelectedTable
             // 
+            this.grbSelectedTable.Controls.Add(this.tbx_Note);
+            this.grbSelectedTable.Controls.Add(this.btnDeleteNumDrink);
             this.grbSelectedTable.Controls.Add(this.lblCategory);
             this.grbSelectedTable.Controls.Add(this.cboCategory);
             this.grbSelectedTable.Controls.Add(this.txtTotalPrice);
@@ -547,6 +551,24 @@ namespace CoffeeManagement
             this.grbSelectedTable.TabIndex = 10;
             this.grbSelectedTable.TabStop = false;
             this.grbSelectedTable.Text = "Bàn ?";
+            // 
+            // btnDeleteNumDrink
+            // 
+            this.btnDeleteNumDrink.BorderRadius = 3;
+            this.btnDeleteNumDrink.CheckedState.Parent = this.btnDeleteNumDrink;
+            this.btnDeleteNumDrink.CustomImages.Parent = this.btnDeleteNumDrink;
+            this.btnDeleteNumDrink.FillColor = System.Drawing.Color.FromArgb(((int)(((byte)(93)))), ((int)(((byte)(245)))), ((int)(((byte)(255)))));
+            this.btnDeleteNumDrink.FillColor2 = System.Drawing.Color.FromArgb(((int)(((byte)(78)))), ((int)(((byte)(177)))), ((int)(((byte)(255)))));
+            this.btnDeleteNumDrink.Font = new System.Drawing.Font("Segoe UI", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.btnDeleteNumDrink.ForeColor = System.Drawing.Color.Black;
+            this.btnDeleteNumDrink.HoverState.Parent = this.btnDeleteNumDrink;
+            this.btnDeleteNumDrink.Location = new System.Drawing.Point(399, 24);
+            this.btnDeleteNumDrink.Name = "btnDeleteNumDrink";
+            this.btnDeleteNumDrink.ShadowDecoration.Parent = this.btnDeleteNumDrink;
+            this.btnDeleteNumDrink.Size = new System.Drawing.Size(75, 25);
+            this.btnDeleteNumDrink.TabIndex = 9;
+            this.btnDeleteNumDrink.Text = "Xóa món";
+            this.btnDeleteNumDrink.Click += new System.EventHandler(this.btnDeleteNumDrink_Click);
             // 
             // cboMergeTable
             // 
@@ -632,6 +654,13 @@ namespace CoffeeManagement
             this.btnPayment.Text = "Thanh toán";
             this.btnPayment.Click += new System.EventHandler(this.btnPayment_Click);
             // 
+            // tbx_Note
+            // 
+            this.tbx_Note.Location = new System.Drawing.Point(309, 59);
+            this.tbx_Note.Name = "tbx_Note";
+            this.tbx_Note.Size = new System.Drawing.Size(84, 25);
+            this.tbx_Note.TabIndex = 10;
+            // 
             // Main
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(7F, 17F);
@@ -707,6 +736,8 @@ namespace CoffeeManagement
         private System.Windows.Forms.ToolStripMenuItem tsmiMergeTable;
         private System.Windows.Forms.ToolStripSeparator tsmiLine2;
         private System.Windows.Forms.ToolStripMenuItem tsmiPayment;
+        private Guna.UI2.WinForms.Guna2GradientButton btnDeleteNumDrink;
+        private System.Windows.Forms.TextBox tbx_Note;
     }
 }
 

@@ -11,68 +11,72 @@
       "RelativeMoniker": "D:0:0:{0E3530E2-0F93-4323-B6E9-65BEC7BFB991}|CoffeeManagement.csproj|solutionrelative:main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0E3530E2-0F93-4323-B6E9-65BEC7BFB991}|CoffeeManagement.csproj|d:\\download\\lttq\\coffee-management-master\\dal\\billdetaildal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0E3530E2-0F93-4323-B6E9-65BEC7BFB991}|CoffeeManagement.csproj|solutionrelative:dal\\billdetaildal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{0E3530E2-0F93-4323-B6E9-65BEC7BFB991}|CoffeeManagement.csproj|D:\\Download\\lttq\\Coffee-Management-master\\dal\\billinfodal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0E3530E2-0F93-4323-B6E9-65BEC7BFB991}|CoffeeManagement.csproj|solutionrelative:dal\\billinfodal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0E3530E2-0F93-4323-B6E9-65BEC7BFB991}|CoffeeManagement.csproj|d:\\download\\lttq\\coffee-management-master\\dal\\connectdb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0E3530E2-0F93-4323-B6E9-65BEC7BFB991}|CoffeeManagement.csproj|solutionrelative:dal\\connectdb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{0E3530E2-0F93-4323-B6E9-65BEC7BFB991}|CoffeeManagement.csproj|D:\\Download\\lttq\\Coffee-Management-master\\dal\\billdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E3530E2-0F93-4323-B6E9-65BEC7BFB991}|CoffeeManagement.csproj|solutionrelative:dal\\billdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0E3530E2-0F93-4323-B6E9-65BEC7BFB991}|CoffeeManagement.csproj|d:\\download\\lttq\\coffee-management-master\\dal\\accountdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{0E3530E2-0F93-4323-B6E9-65BEC7BFB991}|CoffeeManagement.csproj|D:\\Download\\lttq\\Coffee-Management-master\\dal\\billdetaildal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E3530E2-0F93-4323-B6E9-65BEC7BFB991}|CoffeeManagement.csproj|solutionrelative:dal\\billdetaildal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E3530E2-0F93-4323-B6E9-65BEC7BFB991}|CoffeeManagement.csproj|D:\\Download\\lttq\\Coffee-Management-master\\dal\\accountdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0E3530E2-0F93-4323-B6E9-65BEC7BFB991}|CoffeeManagement.csproj|solutionrelative:dal\\accountdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0E3530E2-0F93-4323-B6E9-65BEC7BFB991}|CoffeeManagement.csproj|d:\\download\\lttq\\coffee-management-master\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
-      "RelativeMoniker": "D:0:0:{0E3530E2-0F93-4323-B6E9-65BEC7BFB991}|CoffeeManagement.csproj|solutionrelative:app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0E3530E2-0F93-4323-B6E9-65BEC7BFB991}|CoffeeManagement.csproj|d:\\download\\lttq\\coffee-management-master\\packages.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
-      "RelativeMoniker": "D:0:0:{0E3530E2-0F93-4323-B6E9-65BEC7BFB991}|CoffeeManagement.csproj|solutionrelative:packages.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0E3530E2-0F93-4323-B6E9-65BEC7BFB991}|CoffeeManagement.csproj|d:\\download\\lttq\\coffee-management-master\\custommessagebox.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0E3530E2-0F93-4323-B6E9-65BEC7BFB991}|CoffeeManagement.csproj|solutionrelative:custommessagebox.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0E3530E2-0F93-4323-B6E9-65BEC7BFB991}|CoffeeManagement.csproj|D:\\Download\\lttq\\Coffee-Management-master\\management\\bill.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{0E3530E2-0F93-4323-B6E9-65BEC7BFB991}|CoffeeManagement.csproj|solutionrelative:management\\bill.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0E3530E2-0F93-4323-B6E9-65BEC7BFB991}|CoffeeManagement.csproj|d:\\download\\lttq\\coffee-management-master\\custommessagebox.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{0E3530E2-0F93-4323-B6E9-65BEC7BFB991}|CoffeeManagement.csproj|solutionrelative:custommessagebox.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0E3530E2-0F93-4323-B6E9-65BEC7BFB991}|CoffeeManagement.csproj|D:\\Download\\lttq\\Coffee-Management-master\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0E3530E2-0F93-4323-B6E9-65BEC7BFB991}|CoffeeManagement.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0E3530E2-0F93-4323-B6E9-65BEC7BFB991}|CoffeeManagement.csproj|d:\\download\\lttq\\coffee-management-master\\custommessagebox.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0E3530E2-0F93-4323-B6E9-65BEC7BFB991}|CoffeeManagement.csproj|solutionrelative:custommessagebox.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0E3530E2-0F93-4323-B6E9-65BEC7BFB991}|CoffeeManagement.csproj|d:\\download\\lttq\\coffee-management-master\\management\\tablefood.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0E3530E2-0F93-4323-B6E9-65BEC7BFB991}|CoffeeManagement.csproj|solutionrelative:management\\tablefood.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0E3530E2-0F93-4323-B6E9-65BEC7BFB991}|CoffeeManagement.csproj|D:\\Download\\lttq\\Coffee-Management-master\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0E3530E2-0F93-4323-B6E9-65BEC7BFB991}|CoffeeManagement.csproj|solutionrelative:login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{0E3530E2-0F93-4323-B6E9-65BEC7BFB991}|CoffeeManagement.csproj|D:\\Download\\lttq\\Coffee-Management-master\\management\\tablefood.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0E3530E2-0F93-4323-B6E9-65BEC7BFB991}|CoffeeManagement.csproj|solutionrelative:management\\tablefood.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
       "AbsoluteMoniker": "D:0:0:{0E3530E2-0F93-4323-B6E9-65BEC7BFB991}|CoffeeManagement.csproj|D:\\Download\\lttq\\Coffee-Management-master\\management\\bill.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0E3530E2-0F93-4323-B6E9-65BEC7BFB991}|CoffeeManagement.csproj|solutionrelative:management\\bill.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{0E3530E2-0F93-4323-B6E9-65BEC7BFB991}|CoffeeManagement.csproj|D:\\Download\\lttq\\Coffee-Management-master\\management\\tablefood.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E3530E2-0F93-4323-B6E9-65BEC7BFB991}|CoffeeManagement.csproj|solutionrelative:management\\tablefood.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E3530E2-0F93-4323-B6E9-65BEC7BFB991}|CoffeeManagement.csproj|D:\\Download\\lttq\\Coffee-Management-master\\dal\\tabledal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E3530E2-0F93-4323-B6E9-65BEC7BFB991}|CoffeeManagement.csproj|solutionrelative:dal\\tabledal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E3530E2-0F93-4323-B6E9-65BEC7BFB991}|CoffeeManagement.csproj|D:\\Download\\lttq\\Coffee-Management-master\\management\\drink.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0E3530E2-0F93-4323-B6E9-65BEC7BFB991}|CoffeeManagement.csproj|solutionrelative:management\\drink.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E3530E2-0F93-4323-B6E9-65BEC7BFB991}|CoffeeManagement.csproj|D:\\Download\\lttq\\Coffee-Management-master\\dal\\connectdb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E3530E2-0F93-4323-B6E9-65BEC7BFB991}|CoffeeManagement.csproj|solutionrelative:dal\\connectdb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E3530E2-0F93-4323-B6E9-65BEC7BFB991}|CoffeeManagement.csproj|D:\\Download\\lttq\\Coffee-Management-master\\management\\bill.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0E3530E2-0F93-4323-B6E9-65BEC7BFB991}|CoffeeManagement.csproj|solutionrelative:management\\bill.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E3530E2-0F93-4323-B6E9-65BEC7BFB991}|CoffeeManagement.csproj|D:\\Download\\lttq\\Coffee-Management-master\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E3530E2-0F93-4323-B6E9-65BEC7BFB991}|CoffeeManagement.csproj|solutionrelative:login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{0E3530E2-0F93-4323-B6E9-65BEC7BFB991}|CoffeeManagement.csproj|D:\\Download\\lttq\\Coffee-Management-master\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{0E3530E2-0F93-4323-B6E9-65BEC7BFB991}|CoffeeManagement.csproj|solutionrelative:login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0E3530E2-0F93-4323-B6E9-65BEC7BFB991}|CoffeeManagement.csproj|D:\\Download\\lttq\\Coffee-Management-master\\dal\\billdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0E3530E2-0F93-4323-B6E9-65BEC7BFB991}|CoffeeManagement.csproj|solutionrelative:dal\\billdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{0E3530E2-0F93-4323-B6E9-65BEC7BFB991}|CoffeeManagement.csproj|D:\\Download\\lttq\\Coffee-Management-master\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{0E3530E2-0F93-4323-B6E9-65BEC7BFB991}|CoffeeManagement.csproj|solutionrelative:app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E3530E2-0F93-4323-B6E9-65BEC7BFB991}|CoffeeManagement.csproj|D:\\Download\\lttq\\Coffee-Management-master\\management\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0E3530E2-0F93-4323-B6E9-65BEC7BFB991}|CoffeeManagement.csproj|solutionrelative:management\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E3530E2-0F93-4323-B6E9-65BEC7BFB991}|CoffeeManagement.csproj|D:\\Download\\lttq\\Coffee-Management-master\\packages.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{0E3530E2-0F93-4323-B6E9-65BEC7BFB991}|CoffeeManagement.csproj|solutionrelative:packages.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E3530E2-0F93-4323-B6E9-65BEC7BFB991}|CoffeeManagement.csproj|D:\\Download\\lttq\\Coffee-Management-master\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E3530E2-0F93-4323-B6E9-65BEC7BFB991}|CoffeeManagement.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{0E3530E2-0F93-4323-B6E9-65BEC7BFB991}|CoffeeManagement.csproj|D:\\Download\\lttq\\Coffee-Management-master\\dal\\categorydal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -86,21 +90,20 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 19,
+          "SelectedChildIndex": 17,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 13,
               "Title": "Login.cs",
               "DocumentMoniker": "D:\\Download\\lttq\\Coffee-Management-master\\Login.cs",
               "RelativeDocumentMoniker": "Login.cs",
               "ToolTip": "D:\\Download\\lttq\\Coffee-Management-master\\Login.cs",
               "RelativeToolTip": "Login.cs",
-              "ViewState": "AgIAAAQAAABAZWZmZmYkwAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-15T08:58:00.169Z",
-              "IsPinned": true,
-              "EditorCaption": ""
+              "IsPinned": true
             },
             {
               "$type": "Bookmark",
@@ -159,43 +162,37 @@
               "Name": "ST:0:0:{57d563b6-44a5-47df-85be-f4199ad6b651}"
             },
             {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e506b91c-c606-466a-90a9-123d1d1e12b3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "BillDetailDAL.cs",
-              "DocumentMoniker": "D:\\Download\\lttq\\Coffee-Management-master\\DAL\\BillDetailDAL.cs",
-              "RelativeDocumentMoniker": "DAL\\BillDetailDAL.cs",
-              "ToolTip": "D:\\Download\\lttq\\Coffee-Management-master\\DAL\\BillDetailDAL.cs",
-              "RelativeToolTip": "DAL\\BillDetailDAL.cs",
-              "ViewState": "AgIAAAgAAAAANDMzMzPzvw0AAAAcAAAAAAAAAA==",
+              "DocumentIndex": 0,
+              "Title": "Main.cs",
+              "DocumentMoniker": "D:\\Download\\lttq\\Coffee-Management-master\\Main.cs",
+              "RelativeDocumentMoniker": "Main.cs",
+              "ToolTip": "D:\\Download\\lttq\\Coffee-Management-master\\Main.cs",
+              "RelativeToolTip": "Main.cs",
+              "ViewState": "AgIAAP8AAAAAAAAAAAAowCMBAABrAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-25T17:13:42.082Z",
+              "WhenOpened": "2025-01-05T01:05:32.697Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "ConnectDB.cs",
-              "DocumentMoniker": "D:\\Download\\lttq\\Coffee-Management-master\\DAL\\ConnectDB.cs",
-              "RelativeDocumentMoniker": "DAL\\ConnectDB.cs",
-              "ToolTip": "D:\\Download\\lttq\\Coffee-Management-master\\DAL\\ConnectDB.cs",
-              "RelativeToolTip": "DAL\\ConnectDB.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAaAAAAAAAAAA==",
+              "DocumentIndex": 3,
+              "Title": "BillDAL.cs",
+              "DocumentMoniker": "D:\\Download\\lttq\\Coffee-Management-master\\DAL\\BillDAL.cs",
+              "RelativeDocumentMoniker": "DAL\\BillDAL.cs",
+              "ToolTip": "D:\\Download\\lttq\\Coffee-Management-master\\DAL\\BillDAL.cs",
+              "RelativeToolTip": "DAL\\BillDAL.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACoAAAB4AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-25T16:59:33.686Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "CustomMessageBox.Designer.cs",
-              "DocumentMoniker": "D:\\Download\\lttq\\Coffee-Management-master\\CustomMessageBox.Designer.cs",
-              "RelativeDocumentMoniker": "CustomMessageBox.Designer.cs",
-              "ToolTip": "D:\\Download\\lttq\\Coffee-Management-master\\CustomMessageBox.Designer.cs",
-              "RelativeToolTip": "CustomMessageBox.Designer.cs",
-              "ViewState": "AgIAABIAAAAAAAAAAAAQwCIAAABIAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-25T10:41:49.622Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-15T08:55:27.96Z"
             },
             {
               "$type": "Document",
@@ -206,47 +203,43 @@
               "ToolTip": "D:\\Download\\lttq\\Coffee-Management-master\\Main.cs [Design]",
               "RelativeToolTip": "Main.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-16T06:47:55.235Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2024-12-16T06:47:55.235Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Main.cs",
-              "DocumentMoniker": "D:\\Download\\lttq\\Coffee-Management-master\\Main.cs",
-              "RelativeDocumentMoniker": "Main.cs",
-              "ToolTip": "D:\\Download\\lttq\\Coffee-Management-master\\Main.cs",
-              "RelativeToolTip": "Main.cs",
-              "ViewState": "AgIAANQBAAAAnJmZmZkVwOEBAABBAAAAAAAAAA==",
+              "DocumentIndex": 8,
+              "Title": "TableFood.cs",
+              "DocumentMoniker": "D:\\Download\\lttq\\Coffee-Management-master\\management\\TableFood.cs",
+              "RelativeDocumentMoniker": "management\\TableFood.cs",
+              "ToolTip": "D:\\Download\\lttq\\Coffee-Management-master\\management\\TableFood.cs",
+              "RelativeToolTip": "management\\TableFood.cs",
+              "ViewState": "AgIAAEEAAABAZmZmZmYwwFcAAABCAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-16T06:48:15.291Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-25T10:15:32.835Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 2,
               "Title": "BillInfoDAL.cs",
               "DocumentMoniker": "D:\\Download\\lttq\\Coffee-Management-master\\DAL\\BillInfoDAL.cs",
               "RelativeDocumentMoniker": "DAL\\BillInfoDAL.cs",
               "ToolTip": "D:\\Download\\lttq\\Coffee-Management-master\\DAL\\BillInfoDAL.cs",
               "RelativeToolTip": "DAL\\BillInfoDAL.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAB8AAABSAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-15T08:55:25.351Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-15T08:55:25.351Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "packages.config",
-              "DocumentMoniker": "D:\\Download\\lttq\\Coffee-Management-master\\packages.config",
-              "RelativeDocumentMoniker": "packages.config",
-              "ToolTip": "D:\\Download\\lttq\\Coffee-Management-master\\packages.config",
-              "RelativeToolTip": "packages.config",
+              "DocumentIndex": 4,
+              "Title": "BillDetailDAL.cs",
+              "DocumentMoniker": "D:\\Download\\lttq\\Coffee-Management-master\\DAL\\BillDetailDAL.cs",
+              "RelativeDocumentMoniker": "DAL\\BillDetailDAL.cs",
+              "ToolTip": "D:\\Download\\lttq\\Coffee-Management-master\\DAL\\BillDetailDAL.cs",
+              "RelativeToolTip": "DAL\\BillDetailDAL.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
-              "WhenOpened": "2024-12-25T16:59:20.579Z",
-              "EditorCaption": ""
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-30T05:30:27.641Z"
             },
             {
               "$type": "Document",
@@ -256,52 +249,93 @@
               "RelativeDocumentMoniker": "DAL\\AccountDAL.cs",
               "ToolTip": "D:\\Download\\lttq\\Coffee-Management-master\\DAL\\AccountDAL.cs",
               "RelativeToolTip": "DAL\\AccountDAL.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAABcAAAAANDMzMzMLwBYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-25T16:59:28.056Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "CustomMessageBox.cs [Design]",
-              "DocumentMoniker": "D:\\Download\\lttq\\Coffee-Management-master\\CustomMessageBox.cs",
-              "RelativeDocumentMoniker": "CustomMessageBox.cs",
-              "ToolTip": "D:\\Download\\lttq\\Coffee-Management-master\\CustomMessageBox.cs [Design]",
-              "RelativeToolTip": "CustomMessageBox.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-25T10:38:44.608Z",
-              "EditorCaption": " [Design]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\Download\\lttq\\Coffee-Management-master\\Program.cs",
-              "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "D:\\Download\\lttq\\Coffee-Management-master\\Program.cs",
-              "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAEAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-15T08:55:54.449Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "TableFood.cs",
-              "DocumentMoniker": "D:\\Download\\lttq\\Coffee-Management-master\\management\\TableFood.cs",
-              "RelativeDocumentMoniker": "management\\TableFood.cs",
-              "ToolTip": "D:\\Download\\lttq\\Coffee-Management-master\\management\\TableFood.cs",
-              "RelativeToolTip": "management\\TableFood.cs",
-              "ViewState": "AgIAABwAAAAAAAAAAAAQwCoAAAAjAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-25T10:15:32.835Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-25T16:59:28.056Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 6,
+              "Title": "TableFood.cs [Design]",
+              "DocumentMoniker": "D:\\Download\\lttq\\Coffee-Management-master\\management\\TableFood.cs",
+              "RelativeDocumentMoniker": "management\\TableFood.cs",
+              "ToolTip": "D:\\Download\\lttq\\Coffee-Management-master\\management\\TableFood.cs [Design]",
+              "RelativeToolTip": "management\\TableFood.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-28T11:51:06.807Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Bill.cs",
+              "DocumentMoniker": "D:\\Download\\lttq\\Coffee-Management-master\\management\\Bill.cs",
+              "RelativeDocumentMoniker": "management\\Bill.cs",
+              "ToolTip": "D:\\Download\\lttq\\Coffee-Management-master\\management\\Bill.cs",
+              "RelativeToolTip": "management\\Bill.cs",
+              "ViewState": "AgIAAAEAAADAzMzMzMwcwCUAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-16T06:44:06.086Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Drink.cs [Design]",
+              "DocumentMoniker": "D:\\Download\\lttq\\Coffee-Management-master\\management\\Drink.cs",
+              "RelativeDocumentMoniker": "management\\Drink.cs",
+              "ToolTip": "D:\\Download\\lttq\\Coffee-Management-master\\management\\Drink.cs [Design]",
+              "RelativeToolTip": "management\\Drink.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-30T05:06:31.792Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "TableDAL.cs",
+              "DocumentMoniker": "D:\\Download\\lttq\\Coffee-Management-master\\DAL\\TableDAL.cs",
+              "RelativeDocumentMoniker": "DAL\\TableDAL.cs",
+              "ToolTip": "D:\\Download\\lttq\\Coffee-Management-master\\DAL\\TableDAL.cs",
+              "RelativeToolTip": "DAL\\TableDAL.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-30T05:07:05.494Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Bill.cs [Design]",
+              "DocumentMoniker": "D:\\Download\\lttq\\Coffee-Management-master\\management\\Bill.cs",
+              "RelativeDocumentMoniker": "management\\Bill.cs",
+              "ToolTip": "D:\\Download\\lttq\\Coffee-Management-master\\management\\Bill.cs [Design]",
+              "RelativeToolTip": "management\\Bill.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-16T06:44:00.902Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ConnectDB.cs",
+              "DocumentMoniker": "D:\\Download\\lttq\\Coffee-Management-master\\DAL\\ConnectDB.cs",
+              "RelativeDocumentMoniker": "DAL\\ConnectDB.cs",
+              "ToolTip": "D:\\Download\\lttq\\Coffee-Management-master\\DAL\\ConnectDB.cs",
+              "RelativeToolTip": "DAL\\ConnectDB.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-25T16:59:33.686Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Login.cs [Design]",
+              "DocumentMoniker": "D:\\Download\\lttq\\Coffee-Management-master\\Login.cs",
+              "RelativeDocumentMoniker": "Login.cs",
+              "ToolTip": "D:\\Download\\lttq\\Coffee-Management-master\\Login.cs [Design]",
+              "RelativeToolTip": "Login.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-15T08:57:47.482Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
               "Title": "App.config",
               "DocumentMoniker": "D:\\Download\\lttq\\Coffee-Management-master\\App.config",
               "RelativeDocumentMoniker": "App.config",
@@ -309,74 +343,46 @@
               "RelativeToolTip": "App.config",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
-              "WhenOpened": "2024-12-25T09:03:43.728Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "Bill.cs [Design]",
-              "DocumentMoniker": "D:\\Download\\lttq\\Coffee-Management-master\\management\\Bill.cs",
-              "RelativeDocumentMoniker": "management\\Bill.cs",
-              "ToolTip": "D:\\Download\\lttq\\Coffee-Management-master\\management\\Bill.cs [Design]",
-              "RelativeToolTip": "management\\Bill.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-16T06:44:00.902Z",
-              "EditorCaption": " [Design]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "CustomMessageBox.cs",
-              "DocumentMoniker": "D:\\Download\\lttq\\Coffee-Management-master\\CustomMessageBox.cs",
-              "RelativeDocumentMoniker": "CustomMessageBox.cs",
-              "ToolTip": "D:\\Download\\lttq\\Coffee-Management-master\\CustomMessageBox.cs",
-              "RelativeToolTip": "CustomMessageBox.cs",
-              "ViewState": "AgIAABUAAAAAAAAAAAA1wDAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-25T10:38:47.763Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "Bill.cs",
-              "DocumentMoniker": "D:\\Download\\lttq\\Coffee-Management-master\\management\\Bill.cs",
-              "RelativeDocumentMoniker": "management\\Bill.cs",
-              "ToolTip": "D:\\Download\\lttq\\Coffee-Management-master\\management\\Bill.cs",
-              "RelativeToolTip": "management\\Bill.cs",
-              "ViewState": "AgIAAEoAAAAAAAAAAAAAADAAAAAaAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-16T06:44:06.086Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-25T09:03:43.728Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 16,
-              "Title": "Login.cs [Design]",
-              "DocumentMoniker": "D:\\Download\\lttq\\Coffee-Management-master\\Login.cs",
-              "RelativeDocumentMoniker": "Login.cs",
-              "ToolTip": "D:\\Download\\lttq\\Coffee-Management-master\\Login.cs [Design]",
-              "RelativeToolTip": "Login.cs [Design]",
+              "Title": "Category.cs [Design]",
+              "DocumentMoniker": "D:\\Download\\lttq\\Coffee-Management-master\\management\\Category.cs",
+              "RelativeDocumentMoniker": "management\\Category.cs",
+              "ToolTip": "D:\\Download\\lttq\\Coffee-Management-master\\management\\Category.cs [Design]",
+              "RelativeToolTip": "management\\Category.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-15T08:57:47.482Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2024-12-28T11:51:04.742Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 17,
-              "Title": "BillDAL.cs",
-              "DocumentMoniker": "D:\\Download\\lttq\\Coffee-Management-master\\DAL\\BillDAL.cs",
-              "RelativeDocumentMoniker": "DAL\\BillDAL.cs",
-              "ToolTip": "D:\\Download\\lttq\\Coffee-Management-master\\DAL\\BillDAL.cs",
-              "RelativeToolTip": "DAL\\BillDAL.cs",
+              "Title": "packages.config",
+              "DocumentMoniker": "D:\\Download\\lttq\\Coffee-Management-master\\packages.config",
+              "RelativeDocumentMoniker": "packages.config",
+              "ToolTip": "D:\\Download\\lttq\\Coffee-Management-master\\packages.config",
+              "RelativeToolTip": "packages.config",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-15T08:55:27.96Z"
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-12-25T16:59:20.579Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 18,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Download\\lttq\\Coffee-Management-master\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\Download\\lttq\\Coffee-Management-master\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-15T08:55:54.449Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
               "Title": "CategoryDAL.cs",
               "DocumentMoniker": "D:\\Download\\lttq\\Coffee-Management-master\\DAL\\CategoryDAL.cs",
               "RelativeDocumentMoniker": "DAL\\CategoryDAL.cs",
@@ -394,11 +400,11 @@
           "Children": [
             {
               "$type": "Bookmark",
-              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
             },
             {
               "$type": "Bookmark",
-              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
             }
           ]
         }

@@ -85,7 +85,7 @@ namespace CoffeeManagement
                 MessageBox.Show("Bạn không thể có bàn đang có khách", "Bàn", MessageBoxButtons.OK, MessageBoxIcon.Warning);
             }
 
-            if (DrinkDAL.Instance.DeleteDrink(Convert.ToInt32(txtID.Text)))
+            if (TableDAL.Instance.DeleteTable(Convert.ToInt32(txtID.Text)))
             {
                 MessageBox.Show("Xoá thành công", "Bàn", MessageBoxButtons.OK, MessageBoxIcon.Question);
                 LoadDataSource();
